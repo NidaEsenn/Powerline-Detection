@@ -20,9 +20,16 @@ The system is designed to be **low-cost, accessible, and practical** for integra
 - **Training Set:** 10,000 RGB images (128×128 resolution)  
   - 5,417 with powerlines  
   - 4,583 without powerlines  
-- **Test Set:** 4,007 independent images (different from the training set)  
+- **Test Set:** 4,007 independent images (different from the training set)
+
 
 The dataset covers **diverse environments and perspectives**, ensuring model robustness. 
+
+![Detection Example](images/powerline.png)
+![Detection Example](images/powerline (2).png)
+![Detection Example](images/no_powerline (2).jpg
+
+
  
 
 ---
