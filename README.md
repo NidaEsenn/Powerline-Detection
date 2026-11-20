@@ -1,5 +1,5 @@
 # ⚡ Powerline Detection for Rotary-Wing Aircraft
-![Powerline Detection](https://github.com/NidaEsenn/Powerline-Detection/blob/main/images/Power-Lines-jpg.webp)
+![Powerline Detection](images/Power-Lines-jpg.webp)
 
 ## 📌 Project Overview
 This project presents a **real-time powerline detection system** aimed at increasing the safety of rotary-wing aircraft such as **helicopters and drones**.  
@@ -27,8 +27,8 @@ The system is designed to be **low-cost, accessible, and practical** for integra
 The dataset covers **diverse environments and perspectives**, ensuring model robustness. 
 
 ![Detection Example](images/powerline.png)
-![Detection Example](images/powerline (2).png)
-![Detection Example](images/no_powerline (2).jpg
+![Detection Example](images/powerline%20(2).png)
+![Detection Example](images/no_powerline%20(2).jpg)
 
 
  
